@@ -16,9 +16,9 @@ Projeto que consome a api do github. Nela é possível consultar dados dos usuá
 
 ## :camera: Screenshots
 
-![App Screenshot](https://github.com/kevinCaldieraro/api-github/blob/main/.github/todo-list-react-0.png)
+![App Screenshot](https://github.com/kevinCaldieraro/todo-list-react/blob/main/.github/todo-list-0.png)
 
-![App Screenshot](https://github.com/kevinCaldieraro/api-github/blob/main/.github/todo-list-react-1.png)
+![App Screenshot](https://github.com/kevinCaldieraro/todo-list-react/blob/main/.github/todo-list-1.png)
 
 ## :rocket: Como executar
 
