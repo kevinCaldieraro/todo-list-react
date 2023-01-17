@@ -1,6 +1,6 @@
-# API-GitHub
+# To do list
 
-Projeto que consome a api do github. Nela é possível consultar dados dos usuários desde suas informações do perfil até as informações de seus repositórios, como nome do repositório, linguagem predominante e entre outros parâmetros. É notório que informações que poderiam vir a comprometer com a segurança do usuário não são possíveis de consultar pela API.
+Em construção.
 
 ## Summary
 
